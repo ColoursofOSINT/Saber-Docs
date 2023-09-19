@@ -1,6 +1,9 @@
 # 1.0 Settings 
  To go to settings, click on the gear icon from the main menu. 
-
+ 
+<details closed>
+<summary># General Settings </summary>
+ 
 # 2.0 General Settings 
 
 ## 2.1 Language 
@@ -15,10 +18,46 @@ Choose between Apple or Android themed icons, text and other features.
 ## 2.4 Layout
 Choose between the system default, smartphone or tablet orientation.
 
-## 2.5 Accent Color 
+## 2.5 Accent Colour 
 Customize the icon colour, and other features.
 
 ## 2.6 Atkinson Hyperlegible font 
 Toggle the legibility the font.
 
+</details>
 
+<details closed>
+<summary># Writing Settings </summary>
+
+# 3.0 Writing Settings
+
+# 3.1 GrayScale Colouring
+Used in e-ink displays, reduces options for colours.
+
+# 3.2 Draw and Hold for a line
+Can change the time before a line is straightened from regular, slow and off.
+
+# 3.3 Maximum Image Size 
+Images larger than this setting are compressed. Increase for higher quality images.
+
+# 3.4 Auto-Clear Whiteboard
+
+# 3.5 Auto-Disable the Whiteboard
+Switches back to the last used pen after the eraser is lifted.
+
+# 3.6 Hide the finder drawing toggle
+Cannot change the settings in the editor to allow for finger drawing
+ 
+</details>
+
+<details closed>
+<summary># Title </summary>
+</details>
+
+<details open>
+<summary># Title </summary>
+</details>
+
+<details open>
+<summary># Title </summary>
+</details>
