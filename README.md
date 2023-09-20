@@ -51,7 +51,29 @@ Cannot change the settings in the editor to allow for finger drawing
 </details>
 
 <details closed>
-<summary># Title </summary>
+<summary># Editor </summary>
+
+ # 4.0 General Settings 
+
+## 4.1 Toolbar Position
+Change the position of the toolbar (top, bottom, left, right)
+
+## 4.2 Show the toolbar in fullscreen mode 
+On or off.
+
+## 4.3 Invert Notes in Dark Mode
+On or off.
+
+## 4.4 Layout
+Choose between the system default, smartphone or tablet orientation.
+
+## 4.5 Accent Colour 
+Customize the icon colour, and other features.
+
+## 4.6 Atkinson Hyperlegible font 
+Toggle the legibility the font.
+
+
 </details>
 
 <details open>
